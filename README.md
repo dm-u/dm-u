@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there
 
 <!--
-**dm-u/dm-u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**d-ulitin/d-ulitin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hello! I'm C++ developer 🔨, mechanical & electronic designer ⚡.
+
+I'm using:
+* C++ (gcc, clang)
+* Windows/Linux
+
+My pet-project is scanning old photos with a digital camera (digitization). My process of digitalization:
+* build a stand, setup high-CRI light
+* profile the camera with ColorChecher & dcamprof
+* scan photos
+* apply custom DCP profile
+* dewarp image with [dewarp_chessboard](https://github.com/dm-u/dewarp_chessboard)
+* make basic color correction
+* upload & sent link to relatives to make them happy
+
+![Photo](exploring_future.jpg)
