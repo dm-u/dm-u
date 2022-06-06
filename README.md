@@ -21,13 +21,4 @@ I'm using:
 * C++ (gcc, clang)
 * Windows/Linux
 
-My pet-project is scanning old photos with a digital camera (digitization). My process of digitalization:
-* build a stand, setup high-CRI light
-* profile the camera with ColorChecher & dcamprof
-* scan photos
-* apply custom DCP profile
-* dewarp image with [dewarp_chessboard](https://github.com/dm-u/dewarp_chessboard)
-* make basic color correction
-* upload & sent link to relatives to make them happy
-
-![Photo](exploring_future.jpg)
+My pet-project is scanning old photos with a digital camera (digitization). I'm using custom DCP-profile created with dcamprof & ColorChecker24. If photo is warped, it can be dewarped with [dewarp_chessboard](https://github.com/dm-u/dewarp_chessboard).
