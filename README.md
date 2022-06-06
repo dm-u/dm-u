@@ -21,4 +21,4 @@ I'm using:
 * C++ (gcc, clang)
 * Windows/Linux
 
-My pet-project is scanning old photos with a digital camera (digitization). I'm using custom DCP-profile created with dcamprof & ColorChecker24. If photo is warped, it can be dewarped with [dewarp_chessboard](https://github.com/dm-u/dewarp_chessboard).
+My pet-project is scanning old photos with a digital camera (digitization). I'm using custom [DCP-profile](https://github.com/dm-u/DCP) created with [dcamprof](https://github.com/dm-u/dcamprof) & ColorChecker24. If photo is warped, it can be dewarped with [dewarp_chessboard](https://github.com/dm-u/dewarp_chessboard).
